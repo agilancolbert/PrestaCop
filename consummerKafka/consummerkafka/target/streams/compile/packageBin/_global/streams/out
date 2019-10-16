@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/osboxes/Desktop/consummerKafka/consummerkafka/target/scala-2.11/hello-world_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/osboxes/Desktop/consummerKafka/consummerkafka/target/scala-2.11/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/osboxes/Desktop/consummerKafka/consummerkafka/target/scala-2.11/classes/Consumer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/osboxes/Desktop/consummerKafka/consummerkafka/target/scala-2.11/classes/Consumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer$$anonfun$consumeFromKafka$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/osboxes/Desktop/consummerKafka/consummerkafka/target/scala-2.11/classes/Consumer$$anonfun$consumeFromKafka$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

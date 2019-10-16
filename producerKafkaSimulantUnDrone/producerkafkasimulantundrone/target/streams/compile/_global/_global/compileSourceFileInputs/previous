@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.11.8":{"hashes":[["/home/osboxes/Desktop/producerKafkaSimulantUnDrone/producerkafkasimulantundrone/src/main/scala/producerSimulantDrone.scala","101e5164503ca31003f782778a51549625dc7afe"]],"lastModifiedTimes":[]}}]
